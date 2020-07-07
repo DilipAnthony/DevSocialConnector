@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://dilip:dilip@devsocialconnector.r4ueg.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
